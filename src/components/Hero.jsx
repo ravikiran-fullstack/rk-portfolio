@@ -6,11 +6,14 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>Contentful CMS</h1>
+          <h1>Ravikiran Yadava</h1>
+          <h3>Fullstack Developer</h3>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam
-            voluptatem temporibus perferendis commodi vel quidem mollitia quia
-            eius minima excepturi.
+            With over 9 years of experience in fullstack webapplication
+            development, I have gained skills to efficiently design, develop,
+            build and manage web applications. I have special interest in
+            building apps using ReactJS in the frontend and Java with Spring
+            Boot in the backend
           </p>
         </div>
         <div className="img-container">
